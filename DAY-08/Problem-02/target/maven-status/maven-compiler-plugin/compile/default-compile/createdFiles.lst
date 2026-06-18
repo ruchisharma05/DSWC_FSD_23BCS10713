@@ -1,0 +1,8 @@
+com\ledgerx\batch\exception\GlobalExceptionHandler.class
+com\ledgerx\batch\LedgerXApplication.class
+com\ledgerx\batch\dto\TransactionDTO.class
+com\ledgerx\batch\annotation\SupportedCurrency.class
+com\ledgerx\batch\dto\BatchRequestDTO.class
+com\ledgerx\batch\service\BatchService.class
+com\ledgerx\batch\validator\SupportedCurrencyValidator.class
+com\ledgerx\batch\controller\BatchController.class

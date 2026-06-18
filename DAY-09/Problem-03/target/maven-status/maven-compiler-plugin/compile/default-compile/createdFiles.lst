@@ -1,0 +1,3 @@
+com\cloudvault\resourceserver\CloudVaultApplication.class
+com\cloudvault\resourceserver\controller\ApiController.class
+com\cloudvault\resourceserver\security\SecurityConfig.class

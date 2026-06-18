@@ -1,5 +1,3 @@
-package com.dswcfsd.day06.q2;
-
 import org.springframework.beans.factory.ObjectProvider;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,0 +1,5 @@
+com\gatekeeper\filter\security\SecurityConfig.class
+com\gatekeeper\filter\security\JwtAuthenticationFilter.class
+com\gatekeeper\filter\GatekeeperApplication.class
+com\gatekeeper\filter\controller\GatewayController.class
+com\gatekeeper\filter\security\JwtProvider.class

@@ -1,0 +1,6 @@
+com\corpmatrix\hr\dto\ManagerSpanDTO.class
+com\corpmatrix\hr\entity\FullTimeEmployee.class
+com\corpmatrix\hr\entity\Employee.class
+com\corpmatrix\hr\CorpMatrixApplication.class
+com\corpmatrix\hr\entity\Contractor.class
+com\corpmatrix\hr\repository\EmployeeRepository.class

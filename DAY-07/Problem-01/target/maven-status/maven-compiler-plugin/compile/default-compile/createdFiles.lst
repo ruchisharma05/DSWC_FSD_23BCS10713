@@ -1,0 +1,8 @@
+com\healthsync\records\dto\PatientBillingSummaryDTO.class
+com\healthsync\records\entity\MedicalRecord.class
+com\healthsync\records\entity\Patient.class
+com\healthsync\records\entity\PrescriptionRecord.class
+com\healthsync\records\entity\BillingAccount.class
+com\healthsync\records\entity\LabResultRecord.class
+com\healthsync\records\HealthSyncApplication.class
+com\healthsync\records\repository\PatientRepository.class

@@ -1,0 +1,8 @@
+C:\Users\ruchi\Documents\DSWC_FSD\DAY-08\Problem-02\src\main\java\com\ledgerx\batch\annotation\SupportedCurrency.java
+C:\Users\ruchi\Documents\DSWC_FSD\DAY-08\Problem-02\src\main\java\com\ledgerx\batch\exception\GlobalExceptionHandler.java
+C:\Users\ruchi\Documents\DSWC_FSD\DAY-08\Problem-02\src\main\java\com\ledgerx\batch\dto\BatchRequestDTO.java
+C:\Users\ruchi\Documents\DSWC_FSD\DAY-08\Problem-02\src\main\java\com\ledgerx\batch\LedgerXApplication.java
+C:\Users\ruchi\Documents\DSWC_FSD\DAY-08\Problem-02\src\main\java\com\ledgerx\batch\controller\BatchController.java
+C:\Users\ruchi\Documents\DSWC_FSD\DAY-08\Problem-02\src\main\java\com\ledgerx\batch\validator\SupportedCurrencyValidator.java
+C:\Users\ruchi\Documents\DSWC_FSD\DAY-08\Problem-02\src\main\java\com\ledgerx\batch\service\BatchService.java
+C:\Users\ruchi\Documents\DSWC_FSD\DAY-08\Problem-02\src\main\java\com\ledgerx\batch\dto\TransactionDTO.java

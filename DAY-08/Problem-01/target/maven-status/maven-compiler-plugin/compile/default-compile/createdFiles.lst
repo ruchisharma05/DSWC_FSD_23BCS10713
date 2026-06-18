@@ -1,0 +1,9 @@
+com\devtrack\tickets\exception\GlobalExceptionHandler.class
+com\devtrack\tickets\jackson\TicketTypeResolver.class
+com\devtrack\tickets\controller\TicketController.class
+com\devtrack\tickets\exception\UnsupportedTicketTypeException.class
+com\devtrack\tickets\dto\TicketRequestDTO.class
+com\devtrack\tickets\dto\BugReportDTO.class
+com\devtrack\tickets\dto\FeatureRequestDTO.class
+com\devtrack\tickets\service\TicketService.class
+com\devtrack\tickets\DevTrackApplication.class

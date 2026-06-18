@@ -1,0 +1,8 @@
+com\secureauth\onboarding\controller\AuthController.class
+com\secureauth\onboarding\dto\UserResponseDTO.class
+com\secureauth\onboarding\validator\PasswordsMatchValidator.class
+com\secureauth\onboarding\annotation\PasswordsMatch.class
+com\secureauth\onboarding\dto\RegistrationRequestDTO.class
+com\secureauth\onboarding\exception\GlobalExceptionHandler.class
+com\secureauth\onboarding\SecureAuthApplication.class
+com\secureauth\onboarding\service\AuthService.class

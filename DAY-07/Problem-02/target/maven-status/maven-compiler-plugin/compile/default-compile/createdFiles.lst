@@ -1,0 +1,7 @@
+com\cartflux\fulfillment\repository\PurchaseOrderRepository.class
+com\cartflux\fulfillment\CartFluxApplication.class
+com\cartflux\fulfillment\entity\Product.class
+com\cartflux\fulfillment\entity\OrderLineItem.class
+com\cartflux\fulfillment\entity\PurchaseOrder.class
+com\cartflux\fulfillment\entity\OrderLineItemId.class
+com\cartflux\fulfillment\entity\OrderStatus.class

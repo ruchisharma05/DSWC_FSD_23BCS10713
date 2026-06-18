@@ -1,0 +1,2 @@
+com\gatekeeper\filter\security\JwtAuthenticationFilterTest.class
+com\gatekeeper\filter\GatewaySecurityIntegrationTest.class
